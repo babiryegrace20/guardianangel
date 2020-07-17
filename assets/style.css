@@ -1,3 +1,23 @@
 body{
   background-color: #142B4B;
 }
+#linear{
+  height: 100vh;
+        width: 100vw;
+        background-image: linear-gradient(
+          170deg,
+          #fbbb3b 35%,
+          #142b4b 35%,
+          #142b4b 60%,
+          #fbbb3b 60%
+        );
+        height: 2300px;
+}
+#p1{
+   padding-top: 150px;
+}
+#p2{
+   color: white; 
+   padding-top: 300px; 
+   margin-left: 200px;
+}
