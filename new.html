@@ -47,7 +47,7 @@
           </form>
         </div>
         <div class="col-12 col-sm-6">
-          <img src="assets/images/Hero Image.svg" alt="" style="float: right; margin-top: 10px;"/>
+          <img src="assets/images/Hero Image.svg" alt="" style="float: right; margin-top: 10px; width:100%;"/>
         </div>
       </div>
     </div>
@@ -57,8 +57,8 @@
           
         </div>
         <div class="col-12 col-sm-6">
-          <span style="text-align: center; color: white; font-weight: bold; font-size: larger;">What's</span>
-          <span style="text-align: center; color: #142B4B; font-weight: bold;font-size: larger;">Special?</span>
+          <span style="text-align: center; color: white; font-weight: bolder; font-size: 30px;">What's</span>
+          <span style="text-align: center; color: #142B4B; font-weight: bolder;font-size: 30px;">Special?</span>
         </div>
         <div class="col-12 col-sm-6">
           
@@ -66,13 +66,13 @@
       </div>
       <div class="row">
         <div class="col-12 col-sm-6 col-lg-4">
-          <img src="assets/images/Secured Wallets.svg" alt="">
+          <img src="assets/images/Secured Wallets.svg" alt="" style="width:100%;">
         </div>
         <div class="col-12 col-sm-6 col-lg-4">
-          <img src="assets/images/Automated Savings.svg" alt="">
+          <img src="assets/images/Automated Savings.svg" alt="" style="width:100%; position: relative;">
         </div>
         <div class="col-12 col-sm-6 col-lg-4">
-          <img src="assets/images/Simple and Personalised.svg" alt="" style="float:right">
+          <img src="assets/images/Simple and Personalised.svg" alt="" style="float:right; width:100%;">
         </div>
       </div>
     </div>
@@ -80,7 +80,7 @@
     <div class="container">
       <div class="row">
         <div class="col-12 col-sm-6">
-          <img src="assets/images/Splash screen.svg" alt="" />
+          <img src="assets/images/Splash screen.svg" alt=""  style="width:100%;"/>
         </div>
         <div class="col-12 col-sm-6">
           <p style="color: #142B4B; font-size: larger; font-weight: 1000; margin-top: 100px;">About The App</p>
@@ -105,7 +105,7 @@
             
           </div>
           <div class="col-12 col-sm-6 col-lg-4">
-            <img src="assets/images/Group 458.svg" alt="">
+            <img src="assets/images/Group 458.svg" alt="" style="width: 100%;">
           </div>
           <div class="col-12 col-sm-6 col-lg-4">
             
@@ -118,32 +118,32 @@
         <div class="row">
           <div class="col-12 col-sm-6 col-lg-4">
             <a href="assets/images/Splash screen (3).svg" data-lightbox="Splash screen (3).svg" data-title="escape routes">
-              <img src="assets/images/Splash screen (3).svg">
+              <img src="assets/images/Splash screen (3).svg" style="width:100%;">
             </a>
           </div>
           <div class="col-12 col-sm-6 col-lg-4">
            <a href="assets/images/Splash screen (1).svg" data-lightbox="Splash screen (1).svg" data-title="Chat with buddy">
-              <img src="assets/images/Splash screen (1).svg">
+              <img src="assets/images/Splash screen (1).svg" style="width:100%;">
             </a>
           </div>
           <div class="col-12 col-sm-6 col-lg-4">
             <a href="assets/images/Splash screen (2).svg" data-lightbox="Splash screen (2).svg" data-title="emergency">
-              <img src="assets/images/Splash screen (2).svg">
+              <img src="assets/images/Splash screen (2).svg" style="width:100%;">
             </a>
           </div>
           <div class="col-12 col-sm-6 col-lg-4">
             <a href="assets/images/Splash screen (4).svg" data-lightbox="Splash screen (4).svg" data-title="hide outs">
-              <img src="assets/images/Splash screen (4).svg">
+              <img src="assets/images/Splash screen (4).svg" style="width:100%;">
             </a>
           </div>
           <div class="col-12 col-sm-6 col-lg-4">
             <a href="assets/images/Splash screen (5).svg" data-lightbox="Splash screen (5).svg" data-title="fake injuries">
-              <img src="assets/images/Splash screen (5).svg">
+              <img src="assets/images/Splash screen (5).svg" style="width:100%;">
             </a>
           </div>
           <div class="col-12 col-sm-6 col-lg-4">
             <a href="assets/images/Splash screen (6).svg" data-lightbox="Splash screen (6).svg" data-title="search locations">
-              <img src="assets/images/Splash screen (6).svg">
+              <img src="assets/images/Splash screen (6).svg" style="width:100%;">
             </a>
           </div>
         </div>
